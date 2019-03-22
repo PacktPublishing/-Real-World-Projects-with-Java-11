@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.172-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="app.gui.main.Main">
+   <top>
+      <HBox HBox.hgrow="ALWAYS">
+         <children>
+            <MenuBar HBox.hgrow="ALWAYS">
+              <menus>
+                  <Menu mnemonicParsing="false" text="New">
+                     <items>
+                        <MenuItem mnemonicParsing="false" onAction="#addChatCheck" text="Chat" />
+                     </items>
+                  </Menu>
+              </menus>
+            </MenuBar>
+            <Label fx:id="serverStatus" text="Label" />
+         </children>
+      </HBox>
+   </top>
+   <left>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+            <TextField fx:id="chatSearch" onKeyReleased="#onSearchChange" promptText="Search..." />
+            <ListView fx:id="chatsList" VBox.vgrow="ALWAYS" />
+         </children>
+      </VBox>
+   </left>
+   <center>
+      <VBox BorderPane.alignment="CENTER">
+         <children>
+            <ListView fx:id="messageList" VBox.vgrow="ALWAYS" />
+            <TextField fx:id="messageBox" onKeyPressed="#sendMessageCheck" promptText="Type message here..." />
+         </children>
+      </VBox>
+   </center>
+</BorderPane>

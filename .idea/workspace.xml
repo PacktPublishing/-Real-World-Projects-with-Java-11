@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Hopefully done.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/gui/main/controls/CenterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/gui/main/controls/CenterController.java" afterDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="898805351">
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="28" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="76" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="916926932">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="341" />
+          <entry key="PLAIN_TEXT" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/gui/main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="291">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="JavaFXApplication" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>valueOf</find>
+      <find>return -1</find>
+      <find>make</find>
+      <find>GUI</find>
+      <find>addGroup</find>
+      <find>chatId</find>
+      <find>addMessage</find>
+      <find>displayedMessages</find>
+      <find>chat</find>
+      <find>tableName</find>
+      <find>getGroupM</find>
+      <find>DatabaseVariables.GROUP_CHATTERS_COLUMN</find>
+      <find>toStri</find>
+      <find>count</find>
+      <find>try</find>
+      <find>groupManagingServer</find>
+      <find>databaseKeepUp</find>
+      <find>Cleaned</find>
+      <find>cleaned</find>
+      <find>pingClient</find>
+      <find>tcp</find>
+      <find>cleaned g</find>
+      <find>ping</find>
+      <find>addg</find>
+      <find>message</find>
+      <find>sendingS</find>
+      <find>addMem</find>
+      <find>GUIS</find>
+      <find>group</find>
+      <find>Group</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>b</replace>
+      <replace>RegisterServer</replace>
+      <replace>RegisteringClient</replace>
+      <replace>login</replace>
+      <replace>pendingReceivedMessages</replace>
+      <replace>StackPane</replace>
+      <replace>VBox</replace>
+      <replace>ListView</replace>
+      <replace>ApplicationUtils</replace>
+      <replace>ChatLayout</replace>
+      <replace>addMessageById()</replace>
+      <replace>GUISettings.GROUP_MEMBER_SEPERATOR</replace>
+      <replace>textField</replace>
+      <replace>SafeTextFielf</replace>
+      <replace>SafePasswordFielf</replace>
+      <replace>users</replace>
+    </replaceStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/gui/main/customNodes/SafeTextField.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/customNodes/textFields/SafePasswordField.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/customNodes/textFields/SafeTextField.java" />
+        <option value="$PROJECT_DIR$/src/server/database/dataStructures/MessageConstructor.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/popups/login/LoginWindow.java" />
+        <option value="$PROJECT_DIR$/src/app/networking/RegisteringClient.java" />
+        <option value="$PROJECT_DIR$/src/server/runnables/ServerKiller.java" />
+        <option value="$PROJECT_DIR$/src/server/database/dataStructures/GroupMessage.java" />
+        <option value="$PROJECT_DIR$/src/server/networking/RegisteringServer.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/popups/chats/addChat.fxml" />
+        <option value="$PROJECT_DIR$/src/app/networking/ChatManagingClient.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/UpdatingThread.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/controls/LeftController.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/customNodes/layouts/message/MessageLayout.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/popups/groups/addGroup/addGroup.fxml" />
+        <option value="$PROJECT_DIR$/src/app/networking/GroupManagingClient.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/popups/groups/addMember/addMember.fxml" />
+        <option value="$PROJECT_DIR$/src/app/gui/popups/groups/addMember/AddMemberWindow.java" />
+        <option value="$PROJECT_DIR$/src/global/ArrayUtils.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/popups/chats/AddChatWindow.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/popups/groups/addGroup/AddGroupWindow.java" />
+        <option value="$PROJECT_DIR$/src/server/runnables/DatabasePrinter.java" />
+        <option value="$PROJECT_DIR$/src/server/networking/GroupManagingServer.java" />
+        <option value="$PROJECT_DIR$/src/server/networking/Server.java" />
+        <option value="$PROJECT_DIR$/src/server/database/DatabaseKeepUp.java" />
+        <option value="$PROJECT_DIR$/src/documentation/Get Messages Of Chat.txt" />
+        <option value="$PROJECT_DIR$/src/app/networking/PingClint.java" />
+        <option value="$PROJECT_DIR$/src/server/networking/PingServer.java" />
+        <option value="$PROJECT_DIR$/src/app/networking/Client.java" />
+        <option value="$PROJECT_DIR$/src/app/networking/PingClient.java" />
+        <option value="$PROJECT_DIR$/src/server/database/DatabaseSettings.java" />
+        <option value="$PROJECT_DIR$/src/global/NetworkingSettings.java" />
+        <option value="$PROJECT_DIR$/src/app/networking/MessageLoaderClient.java" />
+        <option value="$PROJECT_DIR$/src/app/ApplicationUtils.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/controls/TopController.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/app/networking/SendingClient.java" />
+        <option value="$PROJECT_DIR$/src/server/database/managing/DatabaseUpdater.java" />
+        <option value="$PROJECT_DIR$/src/server/database/DatabaseUtils.java" />
+        <option value="$PROJECT_DIR$/src/server/database/managing/DatabaseSearcher.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/main.fxml" />
+        <option value="$PROJECT_DIR$/src/server/database/DatabaseManager.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/customNodes/layouts/chat/ChatLayout.java" />
+        <option value="$PROJECT_DIR$/src/server/database/managing/DatabaseVariables.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/GUISettings.java" />
+        <option value="$PROJECT_DIR$/src/server/database/dataStructures/Message.java" />
+        <option value="$PROJECT_DIR$/src/app/networking/ChatRetrievingClient.java" />
+        <option value="$PROJECT_DIR$/src/server/networking/ChatRetrievingServer.java" />
+        <option value="$PROJECT_DIR$/src/server/runnables/Server.java" />
+        <option value="$PROJECT_DIR$/src/server/networking/ChatManagingServer.java" />
+        <option value="$PROJECT_DIR$/src/app/gui/main/controls/CenterController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1550" />
+    <option name="height" value="845" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChatApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChatApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChatApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChatApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChatApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChatApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChatApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChatApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ChatApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChatApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="runnables" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Center&#9;FILE&#9;file://D:/DATA/Documents/Java/JavaProjects/ChatApplication/ChatApplication/src/app/gui/main/controls/CenterController.java&#10;Message&#9;FILE&#9;file://D:/DATA/Documents/Java/JavaProjects/ChatApplication/ChatApplication/src/app/gui/main/customNodes/layouts/message/MessageLayout.java&#10;Database&#9;FILE&#9;file://D:/DATA/Documents/Java/JavaProjects/ChatApplication/unichat/src/server/database/managing/DatabaseVariables.java&#10;Server&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/ChatManagingServer.java&#10;Connect&#9;PSI&#9;JAVA://java.net.ConnectException&#10;Grou&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/GroupManagingServer.java&#10;GroupMana&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/networking/GroupManagingClient.java&#10;ChatManagi&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/ChatManagingServer.java&#10;Add&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/popups/chats/AddChatWindow.java&#10;ChatMana&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/networking/ChatManagingClient.java&#10;addChat&#9;PSI&#9;JAVA://app.gui.main.controls.LeftController#addChat&#10;manageGroups&#9;PSI&#9;JAVA://server.database.DatabaseManager#manageGroups&#10;chatMana&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/ChatManagingServer.java&#10;GroupManagi&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/GroupManagingServer.java&#10;ChatMan&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/networking/ChatManagingClient.java&#10;ChatManaging&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/networking/ChatManagingClient.java&#10;C&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/main/customNodes/layouts/chat/ChatLayout.java&#10;Main&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/main/Main.java&#10;manageGrou&#9;PSI&#9;JAVA://server.database.DatabaseManager#manageGroups&#10;ChatL&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/main/customNodes/layouts/chat/ChatLayout.java&#10;DatabaseSea&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/database/managing/DatabaseSearcher.java&#10;Gr&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/GroupManagingServer.java&#10;addgr&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/popups/groups/addGroup/addGroup.fxml&#10;addmember&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/popups/groups/addMember/addMember.fxml&#10;addGrou&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/popups/groups/addGroup/addGroup.fxml&#10;ChatManag&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/networking/ChatManagingClient.java&#10;GroupS&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/GroupManagingServer.java&#10;Serve&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/runnables/Server.java&#10;Group&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/GroupManagingServer.java&#10;AddM&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/popups/groups/addMember/AddMemberWindow.java&#10;manageChats&#9;PSI&#9;JAVA://server.database.DatabaseManager#manageChats&#10;ChatMaS&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/ChatManagingServer.java&#10;ChatR&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/ChatRetrievingServer.java&#10;Dau&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/database/DatabaseUtils.java&#10;MessageLoad&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/MessageLoaderServer.java&#10;Databau&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/database/DatabaseUtils.java&#10;SendingSe&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/SendingServer.java&#10;Sending&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/networking/SendingClient.java&#10;Databaut&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/database/DatabaseUtils.java&#10;DatabaseUpda&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/database/managing/DatabaseUpdater.java&#10;DatabU&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/database/DatabaseUtils.java&#10;Util&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/ApplicationUtils.java&#10;Applica&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/ApplicationUtils.java&#10;MessageS&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/MessageLoaderServer.java&#10;ChatRet&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/ChatRetrievingServer.java&#10;chatRet&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/networking/ChatRetrievingClient.java&#10;AddG&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/popups/groups/addGroup/AddGroupWindow.java&#10;AdC&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/popups/chats/AddChatWindow.java&#10;Regis&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/server/networking/RegisteringServer.java&#10;addGro&#9;FILE&#9;file://D:/DATA/Documents/Java/unichat/src/app/gui/popups/groups/addGroup/addGroup.fxml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553248926797" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DATA\Documents\Java\unichat\src\app\gui\groups\addGroup" />
+      <recent name="D:\DATA\Documents\Java\unichat\src\app\gui\main\old" />
+      <recent name="C:\Users\Ely\Downloads\work\Java\Projects\UniChat\src\app" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="app" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DATA\Documents\Java\unichat\src\app\gui\groups\addMember" />
+      <recent name="D:\DATA\Documents\Java\unichat\src\app\gui\testing" />
+      <recent name="C:\Users\Ely\Downloads\work\Java\Projects\UniChat\src" />
+      <recent name="C:\Users\Ely\Downloads\work\Java\Projects\UniChat\src\server\networking" />
+      <recent name="C:\Users\Ely\Downloads\work\Java\Projects\UniChat" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ServerCleaner">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabasePrinter" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.runnables.DatabasePrinter" />
+      <module name="ChatApplication" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.runnables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.gui.main.Main" />
+      <module name="ChatApplication" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.gui.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="server.runnables.Server" />
+      <module name="ChatApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.runnables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerCleaner" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.runnables.ServerCleaner" />
+      <module name="ChatApplication" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.runnables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerKiller" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.runnables.ServerKiller" />
+      <module name="ChatApplication" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.runnables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DatabasePrinter" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.ServerKiller" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ServerCleaner" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+    </task>
+    <task id="LOCAL-00001" summary="Fully functioning. Minor bug fixes and &quot;Code Face Lift&quot; and it's done.">
+      <created>1539549087984</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539549087984</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Messages appearing twice bug fixed.">
+      <created>1539895320687</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1539895320687</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Client and server are now more stable. Displays &quot;Connecting to server&quot;&#10;/ &quot;Connected to server&quot; on login screen.">
+      <created>1539945365150</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1539945365150</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Code more optimized. Message retrieving is faster and more reliable. Only UI and Accessibility from now on.">
+      <created>1540218885169</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540218885169</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bug fixes. Needs a new look and new translating method (per message on client side rather than translating the entire chat).">
+      <created>1540391308211</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540391308211</updated>
+    </task>
+    <task id="LOCAL-00006" summary="New looks in the making, code cleanup behind the scenes for new way of approaching networking, UI and translating. Needs more work on UI and maybe optimization.">
+      <created>1542663698433</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542663698433</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added list of FIXME's and TODO's in Main.java. Some previous bugs solved.">
+      <created>1542734384958</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542734384958</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added group chats.">
+      <created>1542818446115</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1542818446115</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Did some TODO's, fixed some FIXME's. preparations for the optimization.">
+      <created>1543861800664</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543861800665</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed double messages on private chats, optimized with threading (finally).">
+      <created>1543931972496</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1543931972496</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added buggy group member adding, fixed a synchronization bug in the server side.">
+      <created>1544892230382</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1544892230382</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Can't create chat with yourself, preparations to fix group participant adding bug.">
+      <created>1546847885768</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1546847885769</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Chats now have double messages sometimes.&#10;Groups work perfectly.&#10;Adding members to groups is still buggy.">
+      <created>1548098041295</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548098041295</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Double messages are fixed. Chat is functioning properly.&#10;Now for the features.">
+      <created>1548418424083</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1548418424083</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Group member-adding is now fully functioning.">
+      <created>1548423361508</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1548423361508</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Can't create doubles in database.">
+      <created>1548427025422</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1548427025422</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Can't create doubles in database.">
+      <created>1548427066263</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1548427066263</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Hopefully done.">
+      <created>1553040895041</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1553040895041</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1302000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.21321961" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" weight="0.32995737" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Nl-Palette" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35436243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39761648" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286334" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Changes" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3286334" />
+      <window_info anchor="bottom" id="Event Log" order="11" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286334" />
+      <window_info anchor="bottom" id="Problems" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="JetGradle" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Properties" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+      <window_info anchor="right" id="Maven Projects" order="11" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <MESSAGE value="Database managing on server side is almost done (inserting and retrieving messages)" />
+    <MESSAGE value="Fully functioning. Minor bug fixes and &quot;Code Face Lift&quot; and it's done." />
+    <MESSAGE value="Messages appearing twice bug fixed." />
+    <MESSAGE value="Client and server are now more stable. Displays &quot;Connecting to server&quot;&#10;/ &quot;Connected to server&quot; on login screen." />
+    <MESSAGE value="Code more optimized. Message retrieving is faster and more reliable. Only UI and Accessibility from now on." />
+    <MESSAGE value="Bug fixes. Needs a new look and new translating method (per message on client side rather than translating the entire chat)." />
+    <MESSAGE value="New looks in the making, code cleanup behind the scenes for new way of approaching networking, UI and translating. Needs more work on UI and maybe optimization." />
+    <MESSAGE value="Added list of FIXME's and TODO's in Main.java. Some previous bugs solved." />
+    <MESSAGE value="Added group chats." />
+    <MESSAGE value="Did some TODO's, fixed some FIXME's. preparations for the optimization." />
+    <MESSAGE value="Fixed double messages on private chats, optimized with threading (finally)." />
+    <MESSAGE value="Added buggy group member adding, fixed a synchronization bug in the server side." />
+    <MESSAGE value="Can't create chat with yourself, preparations to fix group participant adding bug." />
+    <MESSAGE value="Chats now have double messages sometimes.&#10;Groups work perfectly.&#10;Adding members to groups is still buggy." />
+    <MESSAGE value="Double messages are fixed. Chat is functioning properly.&#10;Now for the features." />
+    <MESSAGE value="Group member-adding is now fully functioning." />
+    <MESSAGE value="Can't create doubles in database." />
+    <MESSAGE value="Hopefully done." />
+    <option name="LAST_COMMIT_MESSAGE" value="Hopefully done." />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/net/ConnectException.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/jre/lib/rt.jar!/sun/nio/ch/WindowsSelectorImpl.class" />
+    <entry file="file://$PROJECT_DIR$/src/app/networking/RegisteringClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="39" lean-forward="true" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/networking/RegisteringServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documentation/Add Member(s) To Group.txt" />
+    <entry file="file://$PROJECT_DIR$/src/documentation/Retrieve all active chats.txt" />
+    <entry file="file://$PROJECT_DIR$/src/documentation/Send Message To Chat _ Group.txt" />
+    <entry file="file://$PROJECT_DIR$/src/documentation/Get Messages Of Chat.txt" />
+    <entry file="file://$PROJECT_DIR$/src/documentation/Register _ Login.txt" />
+    <entry file="file://$PROJECT_DIR$/src/server/networking/SendingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/documentation/Create A Chat (With A User).txt" />
+    <entry file="file://$PROJECT_DIR$/src/app/gui/popups/chats/AddChatWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="45" column="66" lean-forward="true" selection-start-line="45" selection-start-column="66" selection-end-line="45" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/networking/GroupManagingServer.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Date.java" />
+    <entry file="file://$PROJECT_DIR$/src/server/database/DatabaseKeepUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/networking/ChatManagingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/net/InetSocketAddress.java" />
+    <entry file="file://$PROJECT_DIR$/src/app/networking/PingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/networking/PingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/networking/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="117" column="24" selection-start-line="117" selection-start-column="24" selection-end-line="117" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/database/DatabaseSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/networking/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/networking/MessageLoaderServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="59" selection-start-line="21" selection-start-column="59" selection-end-line="21" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/popups/chats/addChat.fxml">
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+      <provider editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/global/NetworkingSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/networking/GroupManagingClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/app/networking/MessageLoaderClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="104" selection-start-line="17" selection-start-column="104" selection-end-line="17" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/popups/groups/addMember/AddMemberWindow.java" />
+    <entry file="file://$PROJECT_DIR$/src/app/ApplicationUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/main/controls/TopController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/networking/SendingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/database/managing/DatabaseUpdater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/database/DatabaseUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/database/managing/DatabaseSearcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/main/main.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-26">
+          <caret line="20" column="97" selection-start-line="20" selection-start-column="97" selection-end-line="20" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/global/ArrayUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/app/gui/GUIUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" column="76" selection-start-line="11" selection-start-column="76" selection-end-line="11" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/database/DatabaseManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="87" column="4" selection-start-line="87" selection-start-column="4" selection-end-line="87" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/database/dataStructures/GroupMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/server/database/managing/DatabaseVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/runnables/DatabasePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/GUISettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/database/dataStructures/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/networking/ChatRetrievingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/networking/ChatRetrievingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/runnables/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/main/customNodes/layouts/chat/ChatLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="104" column="5" selection-start-line="104" selection-start-column="5" selection-end-line="104" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/server/networking/ChatManagingServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/main/controls/CenterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/main/customNodes/layouts/message/MessageLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/gui/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>JavaFXApp</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>UniChat</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>json_simple-1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
